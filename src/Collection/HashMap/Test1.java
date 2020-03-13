@@ -10,6 +10,7 @@ public class Test1 {
         map.put("iPhone6",5300);
         map.put("oppo R9s Plus","3500");
         System.out.println(map);
+        System.out.println("123");
 
     }
 }
