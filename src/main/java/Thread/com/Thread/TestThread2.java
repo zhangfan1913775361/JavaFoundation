@@ -2,7 +2,6 @@ package Thread.com.Thread;
 
 import org.apache.commons.io.FileUtils;
 
-import javax.naming.Name;
 import java.io.File;
 import java.io.IOException;
 import java.net.URL;
