@@ -8,7 +8,7 @@ package YuFa;
  *
  * Created by zhangfan 2020/6/19
  */
-public class Test1 {
+public class Test1_equals {
     public static void main(String[] args) {
         String s1 = "1";
         String s2 = "1";
