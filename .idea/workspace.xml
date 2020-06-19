@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4cc63a9-1fb2-4d7a-bb09-2a0b415d862f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Thread/com/Thread/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/YuFa/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/YuFa/Test2.java" afterDir="false" />
+    <list default="true" id="d4cc63a9-1fb2-4d7a-bb09-2a0b415d862f" name="Default Changelist" comment="Switch case 顺序结构语法">
+      <change afterPath="$PROJECT_DIR$/src/main/java/YuFa/Test4_Switch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -50,7 +48,7 @@
         <counts>
           <entry key="HashMap" value="2" />
           <entry key="iml" value="2" />
-          <entry key="java" value="23" />
+          <entry key="java" value="27" />
           <entry key="md" value="1" />
           <entry key="xml" value="1" />
         </counts>
@@ -58,7 +56,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="23" />
+          <entry key="JAVA" value="27" />
           <entry key="Markdown" value="1" />
           <entry key="UML" value="2" />
           <entry key="XML" value="1" />
@@ -66,15 +64,16 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3826" />
-          <entry key="txt" value="146" />
+          <entry key="dummy" value="10" />
+          <entry key="java" value="4246" />
+          <entry key="txt" value="212" />
           <entry key="xml" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3826" />
-          <entry key="PLAIN_TEXT" value="146" />
+          <entry key="JAVA" value="4246" />
+          <entry key="PLAIN_TEXT" value="222" />
           <entry key="XML" value="42" />
         </counts>
       </usages-collector>
@@ -82,42 +81,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Thread/com/Thread/TestThread3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Thread/com/Thread/TestThread1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Thread/com/Thread/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/test/reflection/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/test/reflection/Main.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -143,19 +106,65 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Test1.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Test1_equals.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
+            <state relative-caret-position="575">
               <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Test2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="77" column="50" lean-forward="true" selection-start-line="77" selection-start-column="50" selection-end-line="77" selection-end-column="50" />
+            <state relative-caret-position="254">
+              <caret line="72" column="11" selection-start-line="72" selection-start-column="11" selection-end-line="72" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Test4_Switch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://G:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Integer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="691">
+              <caret line="885" column="5" lean-forward="true" selection-start-line="885" selection-start-column="5" selection-end-line="885" selection-end-column="5" />
+              <folding>
+                <element signature="e#33891#33892#0" expanded="true" />
+                <element signature="e#33919#33920#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Test3_StringBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://G:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/StringBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93">
+              <caret line="173" column="25" selection-start-line="173" selection-start-column="25" selection-end-line="173" selection-end-column="25" />
+              <folding>
+                <element signature="e#2871#2872#0" expanded="true" />
+                <element signature="e#2896#2897#0" expanded="true" />
+                <element signature="e#3272#3273#0" expanded="true" />
+                <element signature="e#3303#3304#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -217,6 +226,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/test/anotherreflection/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/YuFa/Test1.java" />
         <option value="$PROJECT_DIR$/src/main/java/YuFa/Test2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/YuFa/Test1_equals.java" />
+        <option value="$PROJECT_DIR$/src/main/java/YuFa/Test3_StringBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/YuFa/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/YuFa/Test4_Switch.java" />
       </list>
     </option>
   </component>
@@ -296,6 +309,21 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaFoundation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
+              <item name="TestThread2.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="JavaFoundation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="YuFa" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -331,7 +359,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592555573320" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592559767528" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/Thread" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -364,7 +392,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test2">
+  <component name="RunManager" selected="Application.Test4_Switch">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.test.anotherreflection.Main" />
       <module name="JavaFoundation" />
@@ -378,34 +406,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.reflection.Main" />
-      <module name="JavaFoundation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.reflection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Thread.com.Thread.Test" />
-      <module name="JavaFoundation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Thread.com.Thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="YuFa.Test1" />
+    <configuration name="Test1_equals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YuFa.Test1_equals" />
       <module name="JavaFoundation" />
       <extension name="coverage">
         <pattern>
@@ -419,6 +421,32 @@
     </configuration>
     <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="YuFa.Test2" />
+      <module name="JavaFoundation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="YuFa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3_StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YuFa.Test3_StringBuilder" />
+      <module name="JavaFoundation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="YuFa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test4_Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YuFa.Test4_Switch" />
       <module name="JavaFoundation" />
       <extension name="coverage">
         <pattern>
@@ -455,19 +483,19 @@
     </configuration>
     <list>
       <item itemvalue="Maven.Unnamed" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Test1" />
+      <item itemvalue="Application.Test1_equals" />
       <item itemvalue="Application.Test2" />
+      <item itemvalue="Application.Test3_StringBuilder" />
+      <item itemvalue="Application.Test4_Switch" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test4_Switch" />
+        <item itemvalue="Application.Test3_StringBuilder" />
         <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Test1_equals" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -491,7 +519,7 @@
       <workItem from="1592287530295" duration="10659000" />
       <workItem from="1592442957901" duration="6825000" />
       <workItem from="1592502625567" duration="1308000" />
-      <workItem from="1592535369011" duration="12169000" />
+      <workItem from="1592535369011" duration="14648000" />
     </task>
     <task id="LOCAL-00001" summary="Hashmap的test1">
       <created>1584112588884</created>
@@ -549,11 +577,32 @@
       <option name="project" value="LOCAL" />
       <updated>1592503704868</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="==和equals的比较">
+      <created>1592555610689</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1592555610689</updated>
+    </task>
+    <task id="LOCAL-00010" summary="修改名称">
+      <created>1592558729664</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1592558729664</updated>
+    </task>
+    <task id="LOCAL-00011" summary="StringBuilder的解释">
+      <created>1592558764971</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1592558764972</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56483000" />
+    <option name="totallyTimeSpent" value="58962000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -566,9 +615,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10347615" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.73458445" visible="true" weight="0.21099435" />
+      <window_info id="Structure" order="1" sideWeight="0.26541555" side_tool="true" visible="true" weight="0.21099435" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -576,7 +626,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.16725978" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.33629894" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.46797153" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -638,7 +688,10 @@
     <MESSAGE value="多线程下载url图片" />
     <MESSAGE value="实现Runnable接口来实现多线程" />
     <MESSAGE value="反射机制案例" />
-    <option name="LAST_COMMIT_MESSAGE" value="反射机制案例" />
+    <MESSAGE value="==和equals的比较" />
+    <MESSAGE value="修改名称" />
+    <MESSAGE value="StringBuilder的解释" />
+    <option name="LAST_COMMIT_MESSAGE" value="StringBuilder的解释" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -755,13 +808,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Thread/com/Thread/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/reflection/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -796,13 +842,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://G:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Byte.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1055">
@@ -810,10 +849,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://G:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="691">
+          <caret line="885" column="5" lean-forward="true" selection-start-line="885" selection-start-column="5" selection-end-line="885" selection-end-column="5" />
+          <folding>
+            <element signature="e#33891#33892#0" expanded="true" />
+            <element signature="e#33919#33920#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Test1_equals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="173" column="25" selection-start-line="173" selection-start-column="25" selection-end-line="173" selection-end-column="25" />
+          <folding>
+            <element signature="e#2871#2872#0" expanded="true" />
+            <element signature="e#2896#2897#0" expanded="true" />
+            <element signature="e#3272#3273#0" expanded="true" />
+            <element signature="e#3303#3304#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Test3_StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Test2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="77" column="50" lean-forward="true" selection-start-line="77" selection-start-column="50" selection-end-line="77" selection-end-column="50" />
+        <state relative-caret-position="254">
+          <caret line="72" column="11" selection-start-line="72" selection-start-column="11" selection-end-line="72" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Test4_Switch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
         </state>
       </provider>
     </entry>
