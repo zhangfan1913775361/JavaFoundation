@@ -2,7 +2,7 @@ package YuFa;
 
 /**
  * Created by zhangfan 2020/6/17
- * Switch case的顺序结构，可判断多种数据类型。可以用String，不能判断Boolean
+ * Switch case的顺序结构，可判断多种数据类型。可以用String，不能用Boolean!!!!
  */
 public class Test4_Switch {
     public static void main(String[] args) {
