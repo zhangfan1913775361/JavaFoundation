@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4cc63a9-1fb2-4d7a-bb09-2a0b415d862f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/YuFa/Interface/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/YuFa/Interface/Football.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/YuFa/Interface/Hockey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/YuFa/Interface/MammalInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/YuFa/Interface/Sports.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/YuFa/JAVA8_NewFeature/lamda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/YuFa/AbstractClass/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/YuFa/AbstractClass/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/YuFa/Interface/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/YuFa/Interface/Animal.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/src/target/" />
@@ -35,24 +33,26 @@
     <session id="-701874528">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="HashMap" value="2" />
           <entry key="iml" value="2" />
-          <entry key="java" value="41" />
+          <entry key="java" value="42" />
           <entry key="md" value="1" />
           <entry key="xml" value="1" />
         </counts>
@@ -60,7 +60,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="41" />
+          <entry key="JAVA" value="42" />
           <entry key="Markdown" value="1" />
           <entry key="UML" value="2" />
           <entry key="XML" value="1" />
@@ -69,15 +69,15 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="10" />
-          <entry key="java" value="6213" />
-          <entry key="txt" value="261" />
+          <entry key="java" value="6687" />
+          <entry key="txt" value="266" />
           <entry key="xml" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6213" />
-          <entry key="PLAIN_TEXT" value="271" />
+          <entry key="JAVA" value="6687" />
+          <entry key="PLAIN_TEXT" value="276" />
           <entry key="XML" value="42" />
         </counts>
       </usages-collector>
@@ -86,25 +86,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/AbstractClass/Employee.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Interface/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-              <folding>
-                <element signature="e#515#516#0" expanded="true" />
-                <element signature="e#592#593#0" expanded="true" />
-                <element signature="e#626#627#0" expanded="true" />
-                <element signature="e#653#654#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="253">
+              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Interface/Animal.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/JAVA8_NewFeature/lamda.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+            <state relative-caret-position="115">
+              <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+              <folding>
+                <element signature="e#1387#1388#0" expanded="true" />
+                <element signature="e#1439#1440#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -112,13 +110,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Interface/MammalInt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="184">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="e#129#130#0" expanded="true" />
-                <element signature="e#165#166#0" expanded="true" />
-                <element signature="e#191#192#0" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -128,7 +124,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Interface/Sports.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="138">
-              <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -154,22 +150,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Encapsulation/EncapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-              <folding>
-                <element signature="e#207#208#0" expanded="true" />
-                <element signature="e#234#235#0" expanded="true" />
-                <element signature="e#274#275#0" expanded="true" />
-                <element signature="e#306#307#0" expanded="true" />
-                <element signature="e#338#339#0" expanded="true" />
-                <element signature="e#366#367#0" expanded="true" />
-                <element signature="e#408#409#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
-                <element signature="e#469#470#0" expanded="true" />
-                <element signature="e#495#496#0" expanded="true" />
-                <element signature="e#530#531#0" expanded="true" />
-                <element signature="e#560#561#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="161">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -177,7 +159,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Encapsulation/RunEncap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
+            <state relative-caret-position="184">
               <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="34" />
             </state>
           </provider>
@@ -187,7 +169,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/AbstractClass/Salary.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="506">
-              <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+              <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -195,7 +177,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/AbstractClass/AbstractDemo2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
+            <state relative-caret-position="414">
               <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
             </state>
           </provider>
@@ -251,12 +233,13 @@
         <option value="$PROJECT_DIR$/src/main/java/YuFa/AbstractClass/AbstractDemo2.java" />
         <option value="$PROJECT_DIR$/src/main/java/YuFa/Encapsulation/EncapTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/YuFa/Encapsulation/RunEncap.java" />
-        <option value="$PROJECT_DIR$/src/main/java/YuFa/AbstractClass/Employee.java" />
         <option value="$PROJECT_DIR$/src/main/java/YuFa/Interface/MammalInt.java" />
         <option value="$PROJECT_DIR$/src/main/java/YuFa/Interface/Sports.java" />
         <option value="$PROJECT_DIR$/src/main/java/YuFa/Interface/Hockey.java" />
         <option value="$PROJECT_DIR$/src/main/java/YuFa/Interface/Football.java" />
+        <option value="$PROJECT_DIR$/src/main/java/YuFa/AbstractClass/Employee.java" />
         <option value="$PROJECT_DIR$/src/main/java/YuFa/Interface/Animal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/YuFa/JAVA8_NewFeature/lamda.java" />
       </list>
     </option>
   </component>
@@ -290,8 +273,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="535" />
-    <option name="y" value="58" />
+    <option name="x" value="534" />
+    <option name="y" value="57" />
     <option name="width" value="1641" />
     <option name="height" value="1032" />
   </component>
@@ -304,8 +287,6 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -337,7 +318,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="YuFa" type="462c0819:PsiDirectoryNode" />
-              <item name="Interface" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVA8_NewFeature" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaFoundation" type="b2602c69:ProjectViewProjectNode" />
@@ -367,12 +348,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592580390152" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592666754483" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/Thread" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -405,7 +388,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MammalInt">
+  <component name="RunManager" selected="Application.lamda">
     <configuration name="AbstractDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="YuFa.AbstractClass.AbstractDemo2" />
       <module name="JavaFoundation" />
@@ -445,8 +428,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test4_Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="YuFa.Test4_Switch" />
+    <configuration name="Test5_CharReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YuFa.Test5_CharReverse" />
       <module name="JavaFoundation" />
       <extension name="coverage">
         <pattern>
@@ -458,12 +441,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test5_CharReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="YuFa.Test5_CharReverse" />
+    <configuration name="lamda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YuFa.JAVA8_NewFeature.lamda" />
       <module name="JavaFoundation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="YuFa.*" />
+          <option name="PATTERN" value="YuFa.JAVA8_NewFeature.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -496,19 +479,19 @@
     </configuration>
     <list>
       <item itemvalue="Maven.Unnamed" />
-      <item itemvalue="Application.Test4_Switch" />
       <item itemvalue="Application.Test5_CharReverse" />
       <item itemvalue="Application.AbstractDemo2" />
       <item itemvalue="Application.RunEncap" />
       <item itemvalue="Application.MammalInt" />
+      <item itemvalue="Application.lamda" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lamda" />
         <item itemvalue="Application.MammalInt" />
         <item itemvalue="Application.RunEncap" />
         <item itemvalue="Application.AbstractDemo2" />
         <item itemvalue="Application.Test5_CharReverse" />
-        <item itemvalue="Application.Test4_Switch" />
       </list>
     </recent_temporary>
   </component>
@@ -532,7 +515,9 @@
       <workItem from="1592287530295" duration="10659000" />
       <workItem from="1592442957901" duration="6825000" />
       <workItem from="1592502625567" duration="1308000" />
-      <workItem from="1592535369011" duration="24843000" />
+      <workItem from="1592535369011" duration="27047000" />
+      <workItem from="1592584009689" duration="619000" />
+      <workItem from="1592662079802" duration="3313000" />
     </task>
     <task id="LOCAL-00001" summary="Hashmap的test1">
       <created>1584112588884</created>
@@ -646,11 +631,18 @@
       <option name="project" value="LOCAL" />
       <updated>1592577284115</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="接口的总结">
+      <created>1592580419139</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1592580419139</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69157000" />
+    <option name="totallyTimeSpent" value="75293000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -665,8 +657,8 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.74940896" visible="true" weight="0.19886823" />
-      <window_info id="Structure" order="1" sideWeight="0.250591" side_tool="true" visible="true" weight="0.19886823" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7468672" visible="true" weight="0.20533548" />
+      <window_info id="Structure" order="1" sideWeight="0.25313282" side_tool="true" visible="true" weight="0.20533548" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -674,7 +666,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.24733096" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.29003558" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.31850535" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -744,7 +736,8 @@
     <MESSAGE value="字符串反转" />
     <MESSAGE value="抽象类的总结" />
     <MESSAGE value="java的封装" />
-    <option name="LAST_COMMIT_MESSAGE" value="java的封装" />
+    <MESSAGE value="接口的总结" />
+    <option name="LAST_COMMIT_MESSAGE" value="接口的总结" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -879,9 +872,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -889,9 +879,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -906,10 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="691">
           <caret line="885" column="5" lean-forward="true" selection-start-line="885" selection-start-column="5" selection-end-line="885" selection-end-column="5" />
-          <folding>
-            <element signature="e#33891#33892#0" expanded="true" />
-            <element signature="e#33919#33920#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -917,12 +900,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="93">
           <caret line="173" column="25" selection-start-line="173" selection-start-column="25" selection-end-line="173" selection-end-column="25" />
-          <folding>
-            <element signature="e#2871#2872#0" expanded="true" />
-            <element signature="e#2896#2897#0" expanded="true" />
-            <element signature="e#3272#3273#0" expanded="true" />
-            <element signature="e#3303#3304#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -992,57 +969,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Encapsulation/RunEncap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Encapsulation/EncapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding>
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/AbstractClass/AbstractDemo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/AbstractClass/Salary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/AbstractClass/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="161">
+          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Interface/MammalInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#626#627#0" expanded="true" />
-            <element signature="e#653#654#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1050,14 +990,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Interface/Sports.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
-          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Interface/Hockey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -1068,23 +1001,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Interface/MammalInt.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Interface/Hockey.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="138">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Encapsulation/EncapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Encapsulation/RunEncap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/AbstractClass/Salary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/AbstractClass/AbstractDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Interface/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        <state relative-caret-position="253">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/JAVA8_NewFeature/lamda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+          <folding>
+            <element signature="e#1387#1388#0" expanded="true" />
+            <element signature="e#1439#1440#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
