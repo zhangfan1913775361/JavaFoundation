@@ -4,8 +4,6 @@
     <list default="true" id="d4cc63a9-1fb2-4d7a-bb09-2a0b415d862f" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/main/java/YuFa/JAVA8_NewFeature/lamda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/YuFa/AbstractClass/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/YuFa/AbstractClass/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/YuFa/Interface/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/YuFa/Interface/Animal.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/src/target/" />
@@ -52,7 +50,7 @@
         <counts>
           <entry key="HashMap" value="2" />
           <entry key="iml" value="2" />
-          <entry key="java" value="42" />
+          <entry key="java" value="43" />
           <entry key="md" value="1" />
           <entry key="xml" value="1" />
         </counts>
@@ -60,7 +58,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="42" />
+          <entry key="JAVA" value="43" />
           <entry key="Markdown" value="1" />
           <entry key="UML" value="2" />
           <entry key="XML" value="1" />
@@ -69,15 +67,15 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="10" />
-          <entry key="java" value="6687" />
-          <entry key="txt" value="266" />
+          <entry key="java" value="6773" />
+          <entry key="txt" value="290" />
           <entry key="xml" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6687" />
-          <entry key="PLAIN_TEXT" value="276" />
+          <entry key="JAVA" value="6773" />
+          <entry key="PLAIN_TEXT" value="300" />
           <entry key="XML" value="42" />
         </counts>
       </usages-collector>
@@ -86,9 +84,18 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/AbstractClass/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Interface/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
+            <state relative-caret-position="184">
               <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
             </state>
           </provider>
@@ -97,24 +104,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/JAVA8_NewFeature/lamda.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+            <state relative-caret-position="230">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding>
                 <element signature="e#1387#1388#0" expanded="true" />
                 <element signature="e#1439#1440#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Interface/MammalInt.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#129#130#0" expanded="true" />
-                <element signature="e#175#176#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -318,6 +312,30 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="YuFa" type="462c0819:PsiDirectoryNode" />
+              <item name="AbstractClass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaFoundation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="YuFa" type="462c0819:PsiDirectoryNode" />
+              <item name="Encapsulation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaFoundation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="YuFa" type="462c0819:PsiDirectoryNode" />
+              <item name="Interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaFoundation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="YuFa" type="462c0819:PsiDirectoryNode" />
               <item name="JAVA8_NewFeature" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -355,7 +373,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592666754483" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592667020928" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/Thread" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -517,7 +535,7 @@
       <workItem from="1592502625567" duration="1308000" />
       <workItem from="1592535369011" duration="27047000" />
       <workItem from="1592584009689" duration="619000" />
-      <workItem from="1592662079802" duration="3313000" />
+      <workItem from="1592662079802" duration="3575000" />
     </task>
     <task id="LOCAL-00001" summary="Hashmap的test1">
       <created>1584112588884</created>
@@ -638,11 +656,18 @@
       <option name="project" value="LOCAL" />
       <updated>1592580419139</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="稍作修改">
+      <created>1592666809323</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1592666809323</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75293000" />
+    <option name="totallyTimeSpent" value="75555000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -657,7 +682,7 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7468672" visible="true" weight="0.20533548" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7468672" visible="true" weight="0.20533548" />
       <window_info id="Structure" order="1" sideWeight="0.25313282" side_tool="true" visible="true" weight="0.20533548" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -666,7 +691,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.29003558" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.29003558" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.31850535" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -732,12 +757,12 @@
     <MESSAGE value="修改名称" />
     <MESSAGE value="StringBuilder的解释" />
     <MESSAGE value="Switch case 顺序结构语法" />
-    <MESSAGE value="稍作修改" />
     <MESSAGE value="字符串反转" />
     <MESSAGE value="抽象类的总结" />
     <MESSAGE value="java的封装" />
     <MESSAGE value="接口的总结" />
-    <option name="LAST_COMMIT_MESSAGE" value="接口的总结" />
+    <MESSAGE value="稍作修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="稍作修改" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -969,13 +994,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/AbstractClass/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Interface/MammalInt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -1038,15 +1056,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/Interface/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
+        <state relative-caret-position="184">
           <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/AbstractClass/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/YuFa/JAVA8_NewFeature/lamda.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+        <state relative-caret-position="230">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding>
             <element signature="e#1387#1388#0" expanded="true" />
             <element signature="e#1439#1440#0" expanded="true" />
