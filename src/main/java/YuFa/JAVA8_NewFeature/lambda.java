@@ -13,6 +13,7 @@ package YuFa.JAVA8_NewFeature;
 public class lambda {
     public static void main(String args[]){
         lambda tester = new lambda();
+        Object object = new Object();
 
 
 
