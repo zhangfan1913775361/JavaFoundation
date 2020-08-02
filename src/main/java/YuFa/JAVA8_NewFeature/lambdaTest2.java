@@ -46,7 +46,6 @@ public class lambdaTest2 {
             System.out.println("I like Lambda5");
         };
         like.like();
-
     }
 }
 
